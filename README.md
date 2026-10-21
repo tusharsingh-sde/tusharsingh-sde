@@ -41,8 +41,8 @@
 - 🎓 **3rd-Year B.Tech CSE** at MIET, AKTU (Class of 2024–2028)
 - 🔭 Currently building **SignBridge AI** — real-time sign language translation
 - 🧠 Deep-diving into **Agentic AI**, **LangGraph**, and **multi-agent orchestration**
-- 🏆 **7+ national hackathon finalist** including **ISRO BAH 2026** & **SIH 2025/2026**
-- ⚡ Exploring **Go (Golang)** for ultra-low-latency distributed backends
+- 🏆 **10+ national hackathon finalist** including **ISRO BAH 2026** & **SIH 2025/2026**
+- ⚡ Exploring **Python** for ultra-low-latency distributed backends
 - 📫 Reach me at **tusharsingh.sde@gmail.com**
 - 📍 Meerut, UP / Greater Delhi Area, India
 
@@ -198,12 +198,12 @@ Custom **U-Net** for pixel-level cloud masking on Landsat 8 multispectral imager
 
 | Event | Achievement | Role |
 |:------|:----------:|:-----|
-| 🛰️ **ISRO Bharatiya Antariksh Hackathon 2026** | `Grand Finale Qualified` | Lead ML Architect |
-| 🛣️ **Smart India Hackathon 2026** | `Finalist` | Full-Stack Lead |
+| 🛰️ **ISRO Bharatiya Antariksh Hackathon 2026** | `Qualified for finale` | Lead ML Architect |
+| 🛣️ **Smart India Hackathon 2026** | `Finalist` | Team & Full-Stack Lead |
 | 🛣️ **Smart India Hackathon 2025** | `Finalist` | Backend Engineer |
-| 🛡️ **Build With Bharat 1.0 (Microsoft)** | `Finalist` | Edge AI Lead |
+| 🛡️ **Build With Bharat 1.0 (Microsoft)** | `Finalist` |Team & Edge AI Lead |
 | 📦 **Amazon ML Challenge 2026** | `Team Leader` | ML Pipeline Architect |
-| 🏆 **HackSynergy / Bharat Expo / LITHOS / DevGathering** | `Finalist` | Multi-role |
+| 🏆 **HackSynergy / Bharat Expo / LITHOS / DevGathering** | `Finalist` | Team Leader |
 
 </div>
 
