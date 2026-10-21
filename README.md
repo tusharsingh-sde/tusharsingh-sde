@@ -3,10 +3,11 @@
      Modern • Clean • Professional
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Tushar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20%26%20Backend%20Engineer%20%7C%20Building%20Production-Grade%20Intelligent%20Systems&descSize=16&descColor=C9D1D9&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
+<!-- ──────────────── BANNER ──────────────── -->
+<img src="./assets/banner.png" alt="Tushar Singh — AI/ML & Backend Engineer" width="100%" />
 
 <!-- ──────────────── TYPING SVG ──────────────── -->
 <br/>
