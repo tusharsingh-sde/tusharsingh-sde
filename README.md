@@ -6,7 +6,8 @@
 <div align="center">
 
 <!-- ──────────────── BANNER ──────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Tushar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20%26%20Backend%20Engineer%20%7C%20Building%20Production-Grade%20Intelligent%20Systems&descSize=16&descColor=C9D1D9&descAlignY=55&animation=fadeIn" width="100%" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Tushar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20%26%20Backend%20Engineer%20|%20Building%20Production-Grade%20Intelligent%20Systems&descSize=16&descColor=C9D1D9&descAlignY=55&animation=fadeIn)
 
 <!-- ──────────────── TYPING SVG ──────────────── -->
 <br/>
