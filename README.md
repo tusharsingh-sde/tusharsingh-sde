@@ -218,10 +218,9 @@ Custom **U-Net** for pixel-level cloud masking on Landsat 8 multispectral imager
 ```
  🤖  Agentic AI           →  LangGraph, CrewAI, multi-agent orchestration
  🧠  Deep Learning         →  LoRA / QLoRA fine-tuning, diffusion models
- ⚡  Systems Engineering   →  Go (Golang), Kafka, Redis Pub/Sub
+ ⚡  Systems Engineering   →  Backend Arch., Frameworks,APIs,LLMs, Redis Pub/Sub
  📱  Edge AI               →  TensorRT, ONNX Runtime, INT8 quantization
  🛰️  Geospatial Intel      →  SAR/Optical fusion, disaster mapping
- ⚖️  Legal Tech            →  Accessible AI for citizen empowerment
 ```
 
 </div>
