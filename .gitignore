@@ -20,3 +20,8 @@ Tushar-Portfolio/profile-source/
 *.log
 .DS_Store
 Thumbs.db
+
+# AI agent context / local docs
+future_goals_and_vision.md
+overview.md
+project_details.md
