@@ -1,0 +1,22 @@
+# Dependencies and build outputs
+node_modules/
+.next/
+dist/
+build/
+out/
+
+# Environment variables & local configurations
+.env
+.env*.local
+.claude/
+
+# Cloned external/template repositories (Naresh Khatri repo & local clones)
+portfolio-app/
+profile-source/
+Tushar-Portfolio/portfolio-app/
+Tushar-Portfolio/profile-source/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
