@@ -1,0 +1,5 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Tailwind CSS wave/droplet -->
+  <path d="M32 14 C22 14 16 20 16 26 C16 32 22 35 32 35 C42 35 48 38 48 44 C48 50 42 56 32 56 C22 56 16 50 16 44" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 14 C22 14 16 20 16 26 C16 32 22 35 32 35 C42 35 48 38 48 44" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -10,11 +10,9 @@ out/
 .env*.local
 .claude/
 
-# Cloned external/template repositories (Naresh Khatri repo & local clones)
-portfolio-app/
-profile-source/
-Tushar-Portfolio/portfolio-app/
+# Cloned external/template repositories
 Tushar-Portfolio/profile-source/
+.git_portfolio_backup/
 
 # Logs and OS files
 *.log

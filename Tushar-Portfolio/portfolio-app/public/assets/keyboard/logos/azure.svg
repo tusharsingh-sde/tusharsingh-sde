@@ -1,0 +1,5 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Azure cloud shape -->
+  <path d="M14 42 C8 42 6 36 10 32 C8 28 10 22 16 20 C18 14 24 10 32 12 C38 10 44 14 46 20 C52 20 58 26 56 32 C60 36 58 42 52 42Z" fill="none" stroke="white" stroke-width="3.5"/>
+  <text x="32" y="38" text-anchor="middle" fill="white" font-family="system-ui" font-weight="bold" font-size="14">Az</text>
+</svg>

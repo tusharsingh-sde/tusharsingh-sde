@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0a0a0b"/>
+  <rect x="50" y="50" width="700" height="350" rx="12" fill="#131315" stroke="#27272a" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="40" rx="12" fill="#1a1a1d"/>
+  <circle cx="75" cy="70" r="6" fill="#ef4444"/>
+  <circle cx="95" cy="70" r="6" fill="#fbbf24"/>
+  <circle cx="115" cy="70" r="6" fill="#22c55e"/>
+  <text x="400" y="75" text-anchor="middle" fill="#a1a1aa" font-family="system-ui" font-size="14">HazardLens — Industrial Safety AI</text>
+
+  <!-- Main video area -->
+  <rect x="70" y="110" width="450" height="270" rx="8" fill="#0f0f10" stroke="#3f3f46"/>
+  <text x="295" y="180" text-anchor="middle" fill="#71717a" font-family="system-ui" font-size="12">📹 Industrial Camera Feed</text>
+
+  <!-- Detection boxes -->
+  <rect x="120" y="200" width="60" height="100" rx="4" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <text x="150" y="195" text-anchor="middle" fill="#22c55e" font-family="system-ui" font-size="9">Person 95%</text>
+
+  <rect x="300" y="160" width="80" height="40" rx="4" fill="none" stroke="#ef4444" stroke-width="2"/>
+  <text x="340" y="155" text-anchor="middle" fill="#ef4444" font-family="system-ui" font-size="9">⚠ NO PPE</text>
+
+  <rect x="380" y="200" width="70" height="90" rx="4" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <text x="415" y="195" text-anchor="middle" fill="#22c55e" font-family="system-ui" font-size="9">Person 89%</text>
+
+  <!-- Alert panel -->
+  <rect x="540" y="110" width="190" height="140" rx="8" fill="#1a0f00" stroke="#f97316"/>
+  <text x="560" y="140" fill="#f97316" font-family="system-ui" font-size="14" font-weight="600">⚠ Active Alerts</text>
+  <text x="560" y="170" fill="#fafaf9" font-family="system-ui" font-size="11">Zone A: Missing helmet</text>
+  <text x="560" y="195" fill="#fafaf9" font-family="system-ui" font-size="11">Zone B: No vest detected</text>
+  <rect x="560" y="215" width="150" height="25" rx="4" fill="#ef4444"/>
+  <text x="635" y="232" text-anchor="middle" fill="#fff" font-family="system-ui" font-size="11">Acknowledge</text>
+
+  <!-- Stats -->
+  <rect x="540" y="265" width="190" height="115" rx="8" fill="#0f0f10" stroke="#27272a"/>
+  <text x="560" y="295" fill="#fafaf9" font-family="system-ui" font-size="12" font-weight="600">Real-time Stats</text>
+  <text x="560" y="320" fill="#22c55e" font-family="system-ui" font-size="11">✓ Compliant: 12</text>
+  <text x="560" y="340" fill="#fbbf24" font-family="system-ui" font-size="11">⚠ Warning: 3</text>
+  <text x="560" y="360" fill="#ef4444" font-family="system-ui" font-size="11">✗ Violation: 2</text>
+
+  <!-- Footer note -->
+  <text x="400" y="420" text-anchor="middle" fill="#71717a" font-family="system-ui" font-size="10">Edge AI • YOLOv11 • Real-time • Offline Capable</text>
+</svg>

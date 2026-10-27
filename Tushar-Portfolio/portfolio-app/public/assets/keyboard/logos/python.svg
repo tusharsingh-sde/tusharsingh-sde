@@ -1,0 +1,7 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Python snake symbol simplified -->
+  <path d="M32 10 C22 10 16 16 16 24 L16 30 L28 30 L28 34 L16 34 C10 34 6 38 6 44 C6 50 10 54 16 54 C18 54 20 53 20 53 L20 48 C18 48 16 48 16 46 C16 44 18 42 20 42 L36 42 C42 42 46 38 46 34 L46 30 C46 24 42 20 38 20 L36 20 L36 16 C38 16 40 16 40 14 C40 12 38 10 36 10 Z" fill="none" stroke="white" stroke-width="3.5"/>
+  <path d="M44 30 L44 36 C44 42 40 46 34 46 L32 46 L32 50 C34 50 36 50 36 52 C36 54 34 56 32 56 C30 56 28 54 28 52 C28 50 30 50 32 50" fill="none" stroke="white" stroke-width="3.5"/>
+  <circle cx="24" cy="20" r="3" fill="white"/>
+  <circle cx="40" cy="44" r="3" fill="white"/>
+</svg>

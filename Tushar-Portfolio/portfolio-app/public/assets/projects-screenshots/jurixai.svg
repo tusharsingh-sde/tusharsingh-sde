@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0a0a0b"/>
+  <rect x="50" y="50" width="700" height="350" rx="12" fill="#131315" stroke="#27272a" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="40" rx="12" fill="#1a1a1d"/>
+  <circle cx="75" cy="70" r="6" fill="#ef4444"/>
+  <circle cx="95" cy="70" r="6" fill="#fbbf24"/>
+  <circle cx="115" cy="70" r="6" fill="#22c55e"/>
+  <text x="400" y="75" text-anchor="middle" fill="#a1a1aa" font-family="system-ui" font-size="14">JurixAI — Indian Legal Assistant</text>
+
+  <!-- Chat interface -->
+  <rect x="70" y="110" width="660" height="280" rx="8" fill="#0f0f10"/>
+
+  <!-- User message -->
+  <rect x="90" y="130" width="300" height="50" rx="8" fill="#14b8a6"/>
+  <text x="110" y="160" fill="#051d1b" font-family="system-ui" font-size="12">What are my rights if arrested?</text>
+
+  <!-- AI response -->
+  <rect x="90" y="200" width="500" height="120" rx="8" fill="#1a1a1d" stroke="#27272a"/>
+  <text x="110" y="230" fill="#fafaf9" font-family="system-ui" font-size="12" font-weight="600">⚖️ Legal Response</text>
+  <text x="110" y="255" fill="#a1a1aa" font-family="system-ui" font-size="11">Under Article 22 of the Constitution, you have the right to:</text>
+  <text x="120" y="275" fill="#a1a1aa" font-family="system-ui" font-size="11">• Be informed of grounds of arrest</text>
+  <text x="120" y="295" fill="#a1a1aa" font-family="system-ui" font-size="11">• Consult a legal practitioner of choice</text>
+  <text x="120" y="315" fill="#a1a1aa" font-family="system-ui" font-size="11">• Be produced before magistrate within 24 hours</text>
+
+  <!-- Citations -->
+  <rect x="610" y="200" width="100" height="120" rx="6" fill="#131315" stroke="#3f3f46"/>
+  <text x="620" y="225" fill="#14b8a6" font-family="system-ui" font-size="10">Citations:</text>
+  <text x="620" y="245" fill="#a1a1aa" font-family="system-ui" font-size="9">Art. 22(1)</text>
+  <text x="620" y="265" fill="#a1a1aa" font-family="system-ui" font-size="9">Art. 22(2)</text>
+  <text x="620" y="285" fill="#a1a1aa" font-family="system-ui" font-size="9">CrPC 50</text>
+  <text x="620" y="305" fill="#a1a1aa" font-family="system-ui" font-size="9">DK Basu</text>
+
+  <!-- Input -->
+  <rect x="90" y="340" width="500" height="40" rx="20" fill="#1a1a1d" stroke="#3f3f46"/>
+  <text x="110" y="365" fill="#71717a" font-family="system-ui" font-size="12">Ask your legal question...</text>
+  <circle cx="565" cy="360" r="15" fill="#14b8a6"/>
+  <text x="565" y="365" text-anchor="middle" fill="#051d1b" font-family="system-ui" font-size="14">→</text>
+</svg>
