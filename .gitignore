@@ -9,6 +9,7 @@ out/
 .env
 .env*.local
 .claude/
+.codex/
 
 # Cloned external/template repositories
 Tushar-Portfolio/profile-source/

@@ -264,7 +264,7 @@ const projects: Project[] = [
           <div className="grid gap-4 md:grid-cols-2">
             <div className="glass p-4 rounded-lg">
               <p className="font-semibold">Docker Compose</p>
-              <p className="font-mono text-sm text-muted-foreground mt-1">3 services: backend, frontend (Nginx), Caddy (auto-HTTPS via Let's Encrypt)</p>
+              <p className="font-mono text-sm text-muted-foreground mt-1">3 services: backend, frontend (Nginx), Caddy (auto-HTTPS via Let&apos;s Encrypt)</p>
             </div>
             <div className="glass p-4 rounded-lg">
               <p className="font-semibold">Azure VM</p>
@@ -318,7 +318,7 @@ const projects: Project[] = [
             Real-time dual YOLOv8 inference for fire/smoke and crowd detection on CCTV feeds with Hindi voice alerts via Edge-TTS.
           </TypographyP>
           <TypographyP className="font-mono">
-            A Streamlit-based monitoring platform that ingests RTSP/HTTP video streams from IP cameras and runs two YOLOv8 models in parallel: a custom fine-tuned model (<code>best.pt</code>, 6.2MB) for fire/smoke detection at 68% confidence, and the standard <code>yolov8n.pt</code> for person counting. A "Latest Hazard Wins" finite state machine prioritizes fire alerts over crowd alerts. On trigger, the system generates Hindi neural voice alerts using Microsoft Edge-TTS (<code>hi-IN-SwaraNeural</code>) and dispatches email notifications via Gmail SMTP.
+            A Streamlit-based monitoring platform that ingests RTSP/HTTP video streams from IP cameras and runs two YOLOv8 models in parallel: a custom fine-tuned model (<code>best.pt</code>, 6.2MB) for fire/smoke detection at 68% confidence, and the standard <code>yolov8n.pt</code> for person counting. A &quot;Latest Hazard Wins&quot; finite state machine prioritizes fire alerts over crowd alerts. On trigger, the system generates Hindi neural voice alerts using Microsoft Edge-TTS (<code>hi-IN-SwaraNeural</code>) and dispatches email notifications via Gmail SMTP.
           </TypographyP>
 
           <ProjectsLinks live={this.live} repo={this.github} />
@@ -328,7 +328,7 @@ const projects: Project[] = [
             <li>Engine 1: <code>fire_model(frame, conf=0.68)</code> — custom fire/smoke YOLOv8</li>
             <li>Engine 2: <code>base_model(frame)</code> — YOLOv8n for person detection (crowd counting)</li>
             <li>Frame skip: processes every 4th frame for performance</li>
-            <li>FSM: "Latest Hazard Wins" — FIRE state overrides CROWD</li>
+            <li>FSM: &quot;Latest Hazard Wins&quot; — FIRE state overrides CROWD</li>
             <li>Alerts: Visual banner + Hindi TTS audio (<code>st.audio()</code>) + background email thread</li>
             <li>TTS caching: generated MP3s stored locally for replay</li>
           </ul>
@@ -355,7 +355,7 @@ const projects: Project[] = [
 
           <TypographyH3 className="my-4 mt-8">Current State</TypographyH3>
           <ul className="font-mono space-y-2 list-disc list-inside text-sm">
-            <li>Single-camera operational (CAM 01); 3 additional cameras are placeholder "STDBY"</li>
+            <li>Single-camera operational (CAM 01); 3 additional cameras are placeholder &quot;STDBY&quot;</li>
             <li>Single-threaded blocking <code>while cap.isOpened()</code> loop — freezes Streamlit UI</li>
             <li>Hardcoded Gmail credentials in source (needs environment variables)</li>
             <li>No Docker, tests, persistence, or multi-camera concurrent processing</li>
@@ -418,7 +418,7 @@ const projects: Project[] = [
 
           <TypographyH3 className="my-4 mt-8">README vs Implementation Note</TypographyH3>
           <p className="font-mono text-sm text-muted-foreground">
-            The project README advertises "Llama 3.3-70B" and "Groq" but the codebase only implements Google Gemini models.
+            The project README advertises &quot;Llama 3.3-70B&quot; and &quot;Groq&quot; but the codebase only implements Google Gemini models.
             This portfolio entry reflects the verified implementation, not the README claims.
           </p>
         </div>
