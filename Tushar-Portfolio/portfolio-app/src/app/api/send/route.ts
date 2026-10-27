@@ -81,7 +81,7 @@ export async function POST(req: Request) {
 
     const { fullName, email, message } = parseResult.data;
 
-    const apiKey = process.env.RESEND_API_KEY;
+    const apiKey = process.env.RESEND_API_KEY?.trim();
     if (!apiKey) {
       console.error("[/api/send] Missing RESEND_API_KEY environment variable.");
       return Response.json(
@@ -94,9 +94,9 @@ export async function POST(req: Request) {
     }
 
     const resend = new Resend(apiKey);
-    const toEmail = process.env.CONTACT_RECEIVER_EMAIL || config.email;
+    const toEmail = process.env.CONTACT_RECEIVER_EMAIL?.trim() || config.email;
     const fromEmail =
-      process.env.RESEND_FROM_EMAIL || "Portfolio <onboarding@resend.dev>";
+      process.env.RESEND_FROM_EMAIL?.trim() || "Portfolio <onboarding@resend.dev>";
 
     const { data: resendData, error: resendError } = await resend.emails.send({
       from: fromEmail,
